@@ -1,9 +1,10 @@
 # JS Disable - CFWheels Plugin
 
-Adds a `confirm` argument to `buttonTo()` and `linkTo()` so you can show a JavaScript confirmation prompt.
+Adds a `disable` argument to `submitTag()` that disables the button so it can't be double-clicked.
 
-## Usage Example
+## Usage Examples
 
 ```
-#submitTag(text="Delete", action="deleteIt", disable=true)#
+#submitTag(value="Purchase", disable=true)#
+#submitTag(value="Purchase", disable="Please wait...")#
 ```
