@@ -1,8 +1,8 @@
 {
     "name":"CFWheels JS Disable",
-    "version":"1.0",
+    "version":"1.1",
     "author":"Per Djurner",
-    "location":"perdjurner/cfwheels-js-disable#v1.0",
+    "location":"perdjurner/cfwheels-js-disable#v1.1",
     "directory":"/plugins/",
     "createPackageDirectory":true,
     "packageDirectory":"jsdisable",
