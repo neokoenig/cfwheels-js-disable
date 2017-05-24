@@ -6,13 +6,13 @@ Adds a `disable` argument to `submitTag()`, `buttonTag()` and `buttonTo()` that 
 
 ```
 #startFormTag()#
-	#submitTag(value="Purchase", disable=true)#
+  #submitTag(value="Purchase", disable=true)#
 #endFormTag()#
 ```
 
 ```
 #startFormTag()#
-	#buttonTag(content="Purchase", disable="Please wait...")#
+  #buttonTag(content="Purchase", disable="Please wait...")#
 #endFormTag()#
 ```
 
